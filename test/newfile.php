@@ -484,8 +484,8 @@
   
 </div>
 <script>
-// 1 代表黑子
-// 2 代表白子
+// 1 \B4\FA\B1\ED\BA\DA\D7\D3
+// 2 \B4\FA\B1\ED\B0\D7\D7\D3
   var one = 1;
   var a7=document.getElementById("a7");
   var d7=document.getElementById("d7");
@@ -513,6 +513,6 @@ function ond7()
 		}
  }
 </script>
-
+// xiu gai le wen ben wen jian 
 </htlm></body>
 </htlm>
